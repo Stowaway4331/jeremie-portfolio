@@ -1,7 +1,7 @@
 {
-  "name": "developer-portfolio",
+  "name": "temp-portfolio",
   "version": "1.0.0",
-  "description": "Software Developer Portfolio Template built with react.js bootstrap that helps you showcase your work and skills as a software developer.",
+  "description": "Portfolio built with react.js, next.js and bootstrap.",
   "main": "index.js",
   "repository": "https://github.com/1hanzla100/hanzla-portfolio.git",
   "author": "Hanzla Tauqeer",
@@ -16,7 +16,7 @@
   "dependencies": {
     "@apollo/client": "^3.3.21",
     "@emailjs/browser": "^3.9.1",
-    "@iconify/react": "^3.1.3",
+    "@iconify/react": "^3.2.2",
     "@next/eslint-plugin-next": "11.1.3-canary.7",
     "bootstrap": "^5.0.2",
     "classnames": "^2.3.1",

@@ -22,7 +22,7 @@ const SocialLinks = () => {
       {socialLinks.linkedin && (
         <Button
           className="btn-icon-only rounded-circle ml-1"
-          color="twitter"
+          color="github"
           rel="noopener"
           aria-label="Linkedin"
           href={socialLinks.linkedin}
