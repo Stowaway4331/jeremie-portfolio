@@ -272,15 +272,16 @@ export const projects: ProjectType[] = [
     link: 'https://jeremie-nextauth.vercel.app/',
   },
   {
+    name: 'Better Ideaflow',
+    desc: 'Improved [ideaflow.io](https://www.ideaflow.io) landing page using React and Framer Motion to be a lot more cleaner and better looking using best practises',
+    github: 'https://github.com/Stowaway4331/better-ideaflow',
+    link: 'https://better-ideaflow.vercel.app/',
+  },
+  {
     name: 'img_to_css',
     desc: 'Convert images to pure css based on the box-shadow property and extract its code.',
     github: 'https://github.com/Stowaway4331/img_to_css',
-    link: 'https://stowaway4331.github.io/img_to_css/'
-  },
-  {
-    name: 'Model VPN',
-    desc: 'Shows the working of a Virtual Private Network in Java using 2 virtual servers',
-    github: 'https://github.com/Stowaway4331/client-server-server',
+    link: 'https://stowaway4331.github.io/img_to_css/',
   },
   {
     name: 'Online Code Editor',
@@ -309,10 +310,10 @@ export const showContactUs: boolean = true;
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
   title: 'Jeremie Dsouza',
-  description:
-    'A passionate Full Stack Web Developer.',
+  description: 'A passionate Full Stack Web Developer.',
   author: 'Jeremie Dsouza',
-  image: 'https://avatars.githubusercontent.com/u/92860009?s=400&u=956b127f1b6149b25c4e31ec359fb5151a129d31&v=4',
+  image:
+    'https://avatars.githubusercontent.com/u/92860009?s=400&u=956b127f1b6149b25c4e31ec359fb5151a129d31&v=4',
   url: 'https://developer-portfolio-1hanzla100.vercel.app',
   keywords: [
     'Jeremie',
